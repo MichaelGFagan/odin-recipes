@@ -3,7 +3,16 @@ h1 {
     background-color: black;
 }
 
+h2 {
+    font-family: "Verdana", sans-serif;
+}
+
 img {
     height: auto;
     width: 500px;
+}
+
+.ingredients-header .ingredients-list {
+    color: white;
+    background-color: green;
 }
